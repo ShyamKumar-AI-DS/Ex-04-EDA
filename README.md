@@ -62,3 +62,6 @@ sns.heatmap(df.corr(),annot=True)
 ![output](scr5.png)
 ![output](scr6.png)
 ![output](scr7.png)
+
+### Result:
+Thus the data analysis is done within the given dataset.
