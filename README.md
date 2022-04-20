@@ -1,24 +1,31 @@
 # Ex-04-EDA
 
-## AIM : To perform EDA on the given data set. 
+## AIM : 
+To perform EDA on the given data set. 
 
-## Explanation : The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
+## Explanation : 
+The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
  
 
 # ALGORITHM :
 
-### STEP 1: Create a new file in jupyter notebook.
+### STEP 1: 
+Create a new file in jupyter notebook.
 
-### STEP 2: Upload the given csv file.
+### STEP 2: 
+Upload the given csv file.
 
-### STEP 3: Write codes for Data Analysis (EDA).
+### STEP 3: 
+Write codes for Data Analysis (EDA).
 
-### STEP 4: Plot the result in various formats.
+### STEP 4: 
+Plot the result in various formats.
 
-### STEP 5: Co-relation and plot heatmap for thr given dataset.
+### STEP 5: 
+Co-relation and plot heatmap for thr given dataset.
 
-### STEP 6: End the program.
-
+### STEP 6: 
+End the program.
 
 # CODE:
 ~~~
